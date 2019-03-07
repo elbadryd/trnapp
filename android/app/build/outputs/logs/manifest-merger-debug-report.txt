@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a79d3d773d8520668f8d281848c67a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/fecbbed707c20d4d6e159ef87ea373ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0a96b83ad092230ebf65653a6e8c3ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b58ea83c1cf145a9d3c1408ff3822e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4156939cc7a58e4545b494e70e2f3eac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f40f54a4903b64ff7825a1e13a0fe640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/369fa7010645b2b46504cabc5ff722ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f9ceaf6abce060c4df5361479efa44a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/541e6f25280978831c3aafc0728eb37a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/00ac71bb58f6b2ae45563d418f1e8a6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/615d10002519a1a96cbd64b91be62820/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/f388df12a4a1294f70f211865c41b89e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/341b12b632505877dc5ffc36eccad8c3/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r174650] /home/delbadry/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/722d60e9dd4ed6b22375e995ec6b2209/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/c06dd6478dcd5403a3f4d0e87f0c6516/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/916da0739a6af229f9b956c8a7be7737/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3664de7f376a8145b53448ee7cf473a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbb7ffab9c7b6fada54c001debd40efd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56fb0af0a858a7c216afef163e77d59e/AndroidManifest.xml:17:1-22:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/341b12b632505877dc5ffc36eccad8c3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/341b12b632505877dc5ffc36eccad8c3/AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/delbadry/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/722d60e9dd4ed6b22375e995ec6b2209/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/delbadry/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/722d60e9dd4ed6b22375e995ec6b2209/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.trn.MainActivity
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/e93dde211ed2290565255202a1747443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a79d3d773d8520668f8d281848c67a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a79d3d773d8520668f8d281848c67a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/fecbbed707c20d4d6e159ef87ea373ba/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/fecbbed707c20d4d6e159ef87ea373ba/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0a96b83ad092230ebf65653a6e8c3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0a96b83ad092230ebf65653a6e8c3ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b58ea83c1cf145a9d3c1408ff3822e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b58ea83c1cf145a9d3c1408ff3822e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4156939cc7a58e4545b494e70e2f3eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4156939cc7a58e4545b494e70e2f3eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f40f54a4903b64ff7825a1e13a0fe640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f40f54a4903b64ff7825a1e13a0fe640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/369fa7010645b2b46504cabc5ff722ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/369fa7010645b2b46504cabc5ff722ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f9ceaf6abce060c4df5361479efa44a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f9ceaf6abce060c4df5361479efa44a5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/541e6f25280978831c3aafc0728eb37a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fresco-0.8.1.aar/541e6f25280978831c3aafc0728eb37a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/00ac71bb58f6b2ae45563d418f1e8a6a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.8.1.aar/00ac71bb58f6b2ae45563d418f1e8a6a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/615d10002519a1a96cbd64b91be62820/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.8.1.aar/615d10002519a1a96cbd64b91be62820/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/f388df12a4a1294f70f211865c41b89e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/drawee-0.8.1.aar/f388df12a4a1294f70f211865c41b89e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/341b12b632505877dc5ffc36eccad8c3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/341b12b632505877dc5ffc36eccad8c3/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/c06dd6478dcd5403a3f4d0e87f0c6516/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/delbadry/.gradle/caches/transforms-1/files-1.1/fbcore-0.8.1.aar/c06dd6478dcd5403a3f4d0e87f0c6516/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/916da0739a6af229f9b956c8a7be7737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/916da0739a6af229f9b956c8a7be7737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3664de7f376a8145b53448ee7cf473a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3664de7f376a8145b53448ee7cf473a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbb7ffab9c7b6fada54c001debd40efd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbb7ffab9c7b6fada54c001debd40efd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56fb0af0a858a7c216afef163e77d59e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/delbadry/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56fb0af0a858a7c216afef163e77d59e/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /mnt/c/Users/delbadry/Documents/proj/trnapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
